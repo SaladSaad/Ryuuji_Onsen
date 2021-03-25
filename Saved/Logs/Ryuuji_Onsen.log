@@ -810,3 +810,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.25-02.58.57:107][789]LogSlate: Window 'Source Control Login' being destroyed
 [2021.03.25-02.59.13:213][299]LogSlate: Took 0.170792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2021.03.25-02.59.17:648][571]LogSlate: Window 'Source Control Login' being destroyed
+[2021.03.25-03.09.35:332][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.03.25-03.09.38:606][376]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.25-03.09.38:626][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap" FILE="../../../../Ryuuji_Onsen/Content/TopDownBP/Maps/TopDownExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.25-03.09.38:667][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.03.25-03.09.38:857][376]LogSavePackage: Moving '../../../../Ryuuji_Onsen/Saved/TopDownExampleMap65CB409B4C3615807295B4A04DAF71DD.tmp' to '../../../../Ryuuji_Onsen/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.03.25-03.09.39:003][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../Ryuuji_Onsen/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2021.03.25-03.09.39:088][376]LogSavePackage: Moving '../../../../Ryuuji_Onsen/Saved/TopDownExampleMap_BuiltData1880D72645524C77437A33860F7E5C29.tmp' to '../../../../Ryuuji_Onsen/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.03.25-03.09.39:102][376]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.25-03.09.39:102][376]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.03.25-03.09.39:103][376]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
